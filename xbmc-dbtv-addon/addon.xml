@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="plugin.video.dbtv"
+  version="0.0.1"
+  name="Dagbladet TV"
+  provider-name="olejl77@gmail.com">
+  <requires>
+    <import addon="xbmc.python"/>
+    <import addon="script.module.beautifulsoup"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Dagbladet TV</summary>
+    <description lang="en">Dagbladet Web-TV</description>
+  </extension>
+</addon>
