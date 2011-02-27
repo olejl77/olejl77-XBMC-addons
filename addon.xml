@@ -1,15 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.olejl77.addons" name="My XBMC Addons" version="0.0.1" provider-name="olejl77@gmail.com">
-	<extension point="xbmc.addon.repository" name="My XBMC Addon Repository">
-		<info compressed="false">http://github.com/olejl77/olejl77-XBMC-addons/raw/master/addons.xml</info>
-		<checksum>http://github.com/olejl77/olejl77-XBMC-addons/raw/master/addons.xml.md5</checksum>
-		<datadir zip="false">http://github.com/olejl77/olejl77-XBMC-addons/raw/master/</datadir>
+<addon id="repository.olejl77.addons" name="olejl77's XBMC Addons" version="0.0.1" provider-name="olejl77@gmail.com">
+	<extension point="xbmc.addon.repository" name="olejl77's XBMC Addon Repository">
+		<info compressed="false">https://github.com/olejl77/olejl77-XBMC-addons/raw/master/addons.xml</info>
+		<checksum>https://github.com/olejl77/olejl77-XBMC-addons/raw/master/addons.xml.md5</checksum>
+		<datadir zip="false">https://github.com/olejl77/olejl77-XBMC-addons/raw/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Install My Addons</summary>
-		<description>Download and install my addons</description>
-		<disclaimer></disclaimer>
+		<summary>Install olejl77's Addons</summary>
+		<description>Download and install olejl77's addons</description>
+		<disclaimer>Use at own risk :)</disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon>
 
+https://github.com/olejl77/olejl77-XBMC-addons/raw/master/xbmc-dbtv-addon/resources/settings.xml
